@@ -1,6 +1,6 @@
 # -Rank-1-MachineHack-Competition-Buyer-s-Time-Prediction-Challenge
 
-My approach to solving the "Buyers Time Prediction Challenge" was very simple. It was to concentrate a lot on feature engineering and spend very little time on modelling.
+My approach to solving the "Buyers Time Prediction Challenge"(https://machinehack.com/hackathon/buyers_time_prediction_challenge/overview) was very simple. It was to concentrate a lot on feature engineering and spend very little time on modelling.
 
 Some of the feature engineering done, were
 1.	manually classify client agents into hand held devices and desktops
