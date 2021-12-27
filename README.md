@@ -1,4 +1,5 @@
 # Rank-1-MachineHack-Competition-Buyers-Time-Prediction-Challenge
+<img src="https://user-images.githubusercontent.com/16356237/147424615-d7edfcbb-bf67-4210-aac2-9c9f86cb6c46.PNG" alt="first">
 
 My approach to solving the "Buyers Time Prediction Challenge"(https://machinehack.com/hackathon/buyers_time_prediction_challenge/overview) was very simple. It was to concentrate a lot on feature engineering and spend very little time on modelling.
 
